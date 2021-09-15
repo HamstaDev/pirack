@@ -1,0 +1,8 @@
+{
+  "name": "Pirack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fe326d2c"
+}

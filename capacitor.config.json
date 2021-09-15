@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Pirack",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
